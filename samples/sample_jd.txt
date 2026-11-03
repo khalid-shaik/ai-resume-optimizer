@@ -1,0 +1,12 @@
+Junior Data Analyst
+
+We are looking for a Data Analyst to join our analytics team. You will collect, clean and analyse data, build dashboards and reports in Tableau or Power BI, and present insights to stakeholders.
+
+Requirements:
+- Strong SQL and Python skills, including data cleaning and data visualization
+- Experience with Excel, statistics and A/B testing
+- Familiarity with ETL pipelines and cloud platforms such as AWS or BigQuery
+- Good communication and storytelling skills
+- Knowledge of Git and Agile ways of working
+
+Responsibilities include building KPI dashboards, automating reporting, and working with stakeholders to define metrics.

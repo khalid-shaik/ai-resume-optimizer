@@ -1,0 +1,20 @@
+Alex Sample
+alex.sample@example.com | +91 98765 43210 | Hyderabad, India
+
+SUMMARY
+Fresher with a B.Tech in Computer Science (AI & ML) interested in data analytics.
+
+SKILLS
+Python, SQL, Excel, Power BI, Pandas, NumPy
+
+PROJECTS
+- Built a sales dashboard in Power BI with 6 KPI cards for a retail dataset
+- Cleaned and analysed a 50,000 row customer dataset using Python and Pandas
+- Wrote SQL queries with joins and window functions to answer 15 business questions
+- Created a Streamlit app to explore data interactively
+
+EDUCATION
+B.Tech Computer Science (AI & ML), 2025
+
+CERTIFICATIONS
+Data Science Certification, Python Certification
