@@ -56,4 +56,6 @@ pytest -q
 - [ ] Export an improved resume as DOCX
 
 ## Screenshots
-Add screenshots here (`docs/` folder).
+A<img width="1870" height="845" alt="Screenshot 2026-11-03 133041" src="https://github.com/user-attachments/assets/e983c0e6-f0d0-4b4c-a878-f7a32255e772" />
+<img width="1722" height="782" alt="Screenshot 2026-09-19 225626" src="https://github.com/user-attachments/assets/008c640f-e6ce-45cb-85e8-acc7c37f62ab" />
+<img width="1868" height="852" alt="Screenshot 2026-11-03 133009" src="https://github.com/user-attachments/assets/d8defd9f-6049-4986-b404-b4ab05a1cd9e" />
